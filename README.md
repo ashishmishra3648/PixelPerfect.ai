@@ -56,7 +56,7 @@ To use the **Real** AI model, you need a Replicate API token.
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open https://pixelperfect-ai.vercel.app/ in your browser.
 
 ## 💡 How It Works
 
@@ -76,4 +76,4 @@ The app uses a "Glassmorphism" aesthetic with:
 *   Lucide React icons for a clean look
 
 ---
-*Created by Antigravity*
+*Created by Ashish Mishra*
