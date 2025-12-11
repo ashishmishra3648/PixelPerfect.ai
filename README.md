@@ -2,6 +2,9 @@
 
 A professional, modern web application that uses Artificial Intelligence to upscale low-resolution images to High Definition (2x and 4x).
 
+<img width="1858" height="756" alt="image" src="https://github.com/user-attachments/assets/d9926d05-c343-4c51-9ec5-f6dbfa35c5fa" />
+
+
 ## 🚀 Key Features
 
 *   **AI Power**: Utilizes the Real-ESRGAN model (via Replicate API) for high-fidelity image restoration.
